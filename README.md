@@ -1,1 +1,4 @@
-# counter-app
+# Counterpal
+Simple counting app.
+
+### Uses React
